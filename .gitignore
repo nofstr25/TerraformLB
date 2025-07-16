@@ -1,0 +1,6 @@
+aws_validation.json
+
+# Ignore everything in the Terraform folder
+Terraform/*
+# But do not ignore the readme file
+!Terraform/TF_ReadME
