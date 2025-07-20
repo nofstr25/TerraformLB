@@ -1,3 +1,8 @@
+MA CODE WORD:
+<img width="2689" height="1347" alt="Code_TfJQ4hcFAl" src="https://github.com/user-attachments/assets/3a8966f6-46fd-4338-abaa-0e235e1fbb47" />
+
+
+
 # Terraform AWS EC2 + ALB Deployment Script
 
 This project automates the deployment of an AWS EC2 instance behind an Application Load Balancer (ALB) using Python, Jinja2 templates, and Terraform.
